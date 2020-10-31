@@ -1,4 +1,6 @@
 # hello-world
 Just another repository
 
-No major changes -- just practicing!
+No major changes!
+
+Some more practice
